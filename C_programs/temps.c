@@ -1,3 +1,5 @@
+// Sort a hard code struct list in descending order. Default use a selection sort algorythm. 
+// Activate / Desactivate Bubble sort algorythm at the bottom of the file by commenting/uncommenting the function.
 // Practice working with structs
 // Practice applying sorting algorithms
 
@@ -59,7 +61,7 @@ int main(void)
     }
 }
 
-/* // SELECTION SORT ALGORITHM
+// SELECTION SORT ALGORITHM
 void sort_cities(void)
 {
     for(int i = 0; i < NUM_CITIES; i++)
@@ -83,7 +85,7 @@ void sort_cities(void)
         }
     }
     return;
-}*/
+}
 /* //BUBLE SORT ALGORITHM
 void sort_cities(void)
 {

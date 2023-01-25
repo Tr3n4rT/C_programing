@@ -1,3 +1,4 @@
+// Search for the biggest integer in a list.
 // Practice writing a function to find a max value
 
 #include <cs50.h>
@@ -24,7 +25,7 @@ int main(void)
     printf("The max value is %i.\n", max(arr, n));
 }
 
-// TODO: return the max value
+//Return the max value in the array
 int max(int array[], int n)
 {
     int i = 0;

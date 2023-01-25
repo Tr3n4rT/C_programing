@@ -1,3 +1,5 @@
+//Verify a credit card legitimacy for most VISA, MASTER CARD or AMERICAN EXPRESS card code.
+
 #include <cs50.h>
 #include <stdio.h>
 

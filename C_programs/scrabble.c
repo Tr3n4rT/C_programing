@@ -1,3 +1,6 @@
+// "Scrabble like" game : Ask two players a word each. Calculate points made for each word depending of every letter it contains. 
+// Print the one of the two players that get the most points.
+
 #include <ctype.h>
 #include <cs50.h>
 #include <stdio.h>

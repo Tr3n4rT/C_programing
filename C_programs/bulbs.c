@@ -1,3 +1,4 @@
+//A program that visualy represent, with dark and light bulb emoji, how many bits are used to represent a character, a word or a text.
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>

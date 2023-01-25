@@ -1,3 +1,4 @@
+// Print a left align # symbole pyramide of size (max 8) specified by the user.
 #include <cs50.h>
 #include <stdio.h>
 

@@ -1,3 +1,5 @@
+// Simple election program. Will print the name of the candidate that get the most votes.
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>

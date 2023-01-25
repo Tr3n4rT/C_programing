@@ -1,3 +1,4 @@
+// Print the minimum coins to return to a client from a transaction (American coins)
 #include <cs50.h>
 #include <stdio.h>
 

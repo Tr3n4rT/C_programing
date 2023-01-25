@@ -1,3 +1,4 @@
+// Register an menu order entered by a user from a list. Calculate and print the total cost.
 // Practice using structs
 // Practice writing a linear search function
 
@@ -85,6 +86,22 @@ void add_items(void)
 
     menu[3].item = "Cheese Dog";
     menu[3].price = 7;
+    
+    menu[4].item = "Fries";
+    menu[4].price = 5;
+    
+    menu[5].item = "Cold Pressed Juice";
+    menu[5].price = 7;
+    
+    menu[6].item = "Cold Brew";
+    menu[6].price = 3;
+    
+    menu[7].item = "Water";
+    menu[7].price = 2;
+    
+    menu[8].item = "Soda";
+    menu[8].price = 2;
+    
     return;
 }
 

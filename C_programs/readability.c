@@ -1,3 +1,5 @@
+// Grade a text on Amercican standards using the Coleman-Liau index formula
+
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>

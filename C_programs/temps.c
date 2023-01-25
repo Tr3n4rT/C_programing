@@ -59,7 +59,6 @@ int main(void)
     }
 }
 
-// TODO: Sort cities by temperature in descending order
 /* // SELECTION SORT ALGORITHM
 void sort_cities(void)
 {
